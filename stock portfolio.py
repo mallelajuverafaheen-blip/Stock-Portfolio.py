@@ -33,7 +33,7 @@ def calculate_portfolio():
     portfolio = []
 
     print("=" * 50)
-    print("          STOCK PORTFOLIO TRACKER")
+    print("STOCK PORTFOLIO TRACKER")
     print("=" * 50)
 
     display_available_stocks()
